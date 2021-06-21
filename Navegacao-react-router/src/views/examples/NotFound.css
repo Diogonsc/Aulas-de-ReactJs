@@ -1,0 +1,6 @@
+
+.NotFound h1 {
+    display: flex;
+    font-size: 150px;
+    color: #d00000;
+}

@@ -1,0 +1,12 @@
+
+.Contador input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+button {
+    margin: 10px;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+}
